@@ -1,0 +1,10 @@
+Usage: node . <command>
+
+Examples:
+
+ 
+  node . help   # Shows explanation
+  node . open   # Opens the todo list
+  node . add    # Add todo item
+  node . reset  # Clears the todo list
+  node . remove # Removes an item from the list
